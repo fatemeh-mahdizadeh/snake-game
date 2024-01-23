@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    margin: 0px auto;
+
+}
+
+canvas {
+    display: flex;
+    margin: 50px auto;
+
+}
